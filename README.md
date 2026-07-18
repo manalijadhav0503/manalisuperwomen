@@ -1,3 +1,3 @@
 # manalisuperwomen manali is spiderman...
-print("Hello manali and rudra rudra world devashtra")
+print("Hello manali and rudra world devashtra")
 
